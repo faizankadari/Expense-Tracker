@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+.App-h1{
+  color: red;
+}
+/* .Pratics
+{
+  background-color: black;
+  color: #df1818;
+  border-radius: 50px;
+  width: 300px;
+  text-decoration: blue;
+  margin-bottom: 5px;
+} */
+
+.App-h1
+{
+  color: aqua;
+}
+.App-header {
+  background-color: #df1818;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
