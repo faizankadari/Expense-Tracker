@@ -2,7 +2,7 @@
 <h3>Expense Tracker using React Js</h3>
 <p>Default page will be as below.</p>
 
-<img width="960" alt="Screenshot 2022-12-12 195227" src="https://user-images.githubusercontent.com/118680705/208153840-e1bff9b7-7f8f-47a0-b61c-0fbaf496d7ed.png">
+<img width="960" alt="Screenshot 2022-12-12 195108" src="https://user-images.githubusercontent.com/118680705/208154501-4f7ccdb0-9948-4869-b673-ca550dde2964.png">
 
 <p>Filter Year to see changes for the predefined data.</p>
 
